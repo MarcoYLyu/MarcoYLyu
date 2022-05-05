@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">👋 Hello! I'm MarcoYLyu.</h2>
+<h2 align="center">👋 Hello! I'm Yi Lyu.</h2>
 <p align="center"><em>...</em></p>
 <p align="center">
   <a href="https://github.com/MarcoYLyu">
