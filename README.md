@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">👋 Hello! I'm Yi Lyu.</h2>
-<p align="center"><em>...</em></p>
-<p align="center">
-  <a href="https://github.com/MarcoYLyu">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcoYLyu&show_icons=true&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/hsfzxjy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoYLyu&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10&hide=Component+Pascal,Pascal,makefile,css,html,applescript,powershell" />
-  </a>
- </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoYLyu&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10&hide=Component+Pascal,Pascal,makefile,css,html,applescript,powershell" />
+
+Hi! I am Yi Lyu.
